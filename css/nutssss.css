@@ -44,7 +44,7 @@ body {
 .headPhoto {
     width: 8rem;
     height: 8rem;
-    background: url(https://c-ssl.dtstatic.com/uploads/blog/202103/31/20210331160001_9a852.thumb.1000_0.jpg) no-repeat;
+    background: url(../img/face.jpg) no-repeat;
     background-size: cover;
     border-radius: 50%;
     position: relative;
